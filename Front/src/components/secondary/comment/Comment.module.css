@@ -1,0 +1,42 @@
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.content {
+    width: 90%;
+}
+
+.avatar {
+    height: 40px;
+}
+
+.actions {
+    display: flex;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+    color: #7C7C7C;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.reply {
+    display: flex;
+    flex-direction: column;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.verticalLine {
+    width: 2px; /* Ancho de la línea */
+    height: 100px; /* Altura de la línea; ajusta según tus necesidades */
+    background-color: #000; /* Color de la línea */
+    margin: 0 10px; /* Espacio alrededor de la línea */
+  }
