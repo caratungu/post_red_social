@@ -1,0 +1,39 @@
+.container {
+  border-radius: 8px;
+  border: solid 2px white;
+  margin: 5px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  border-radius: 8px 8px 0px 0px;
+  background: #002b36;
+  height: 40px;
+  color: white;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.line {
+  border: solid 1px gray;
+  border-radius: 10px;
+  width: 100%;
+  align-self: center;
+  margin-left: -20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+li {
+  margin-right: 20px;
+}
+
+span {
+    cursor: pointer;
+}
