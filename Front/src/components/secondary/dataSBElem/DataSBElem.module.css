@@ -1,0 +1,18 @@
+.data {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    justify-content: space-around;
+    
+}
+
+.header {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.detail {
+    margin-top: -20px;
+    font-size: 12px;
+    color: grey;
+}
