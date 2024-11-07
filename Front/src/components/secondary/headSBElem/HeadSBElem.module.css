@@ -1,0 +1,10 @@
+.head {
+    display: flex;
+    align-items: center;
+}
+
+.figure {
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
