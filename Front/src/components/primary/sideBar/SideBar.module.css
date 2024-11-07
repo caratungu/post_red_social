@@ -1,0 +1,8 @@
+.container {
+    width: 25vw;
+    height: 90vh;
+    background: #002B36;
+    border: solid #002B36;
+    overflow-y: auto;
+    scrollbar-width: none;
+}
