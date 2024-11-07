@@ -1,0 +1,42 @@
+.container {
+    margin-left: 10px;
+}
+
+.post {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.actions {
+    display: flex;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+    color: #7C7C7C;
+    margin-left: 15px;
+}
+
+.insertComment {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.subContainer {
+    display: flex;
+}
+
+.linkImage {
+    width: 20%;
+    border: solid orange;
+    margin: 5px;
+}
+
+.btnComment {
+    justify-items: end;
+    margin-right: 16px;
+    margin-top: -5px;
+}
